@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KalkulatorFirebase</string>
+    <string name="tv_judul">Kalkulator Bagus</string>
+    <string name="rb_tambah">Tambah</string>
+    <string name="rb_kurang">Kurang</string>
+    <string name="rb_kali">Kali</string>
+    <string name="rb_bagi">Bagi</string>
+    <string name="btn_hitung">Hitung</string>
+    <string name="tv_hasil">0</string>
+    <string name="hint">0</string>
+    <string name="tv_riwayat">riwayat</string>
+    <string name="riwayat_penghitungan">Riwayat Penghitungan</string>
+</resources>
